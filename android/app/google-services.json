@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1024560540378",
+    "project_id": "engess-chat-app",
+    "storage_bucket": "engess-chat-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1024560540378:android:208d0c858108f7d4bf13e3",
+        "android_client_info": {
+          "package_name": "com.example.engess_chat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAb3oV_7VeT0R_PVYRZhxZ4R4L34KxkjqI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

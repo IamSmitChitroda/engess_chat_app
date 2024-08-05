@@ -1,0 +1,33 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "engess-chat-app",
+          "appId": "1:1024560540378:android:208d0c858108f7d4bf13e3",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "engess-chat-app",
+          "configurations": {
+            "android": "1:1024560540378:android:208d0c858108f7d4bf13e3",
+            "ios": "1:1024560540378:ios:261d7172bea3e218bf13e3",
+            "macos": "1:1024560540378:ios:261d7172bea3e218bf13e3",
+            "web": "1:1024560540378:web:b645387badec0251bf13e3",
+            "windows": "1:1024560540378:web:62786daf5527607ebf13e3"
+          }
+        }
+      }
+    }
+  },
+  "hosting": {
+    "public": "build/web",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
