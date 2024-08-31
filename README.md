@@ -47,9 +47,46 @@
 - Presentation quality and clarity of communication.
 
 ## Screenshots and GIFs
+<p>
 
-<!-- Add screenshots and a GIF of the output of your project here -->
+<p>
+  <img align = "left"  src = "https://github.com/user-attachments/assets/61531537-bd57-488f-8958-b9e790ed3018" width=22%height=35% >
+  
+  <img align = "left"  src = "https://github.com/user-attachments/assets/c0ecb964-c3bd-436f-9ac3-ab254c963a8d" width=22% height=35% >
+  
+  <img align = "left"  src = "https://github.com/user-attachments/assets/4353fd3f-c778-4087-b722-5e91b7d849a1" width=22% height=35% >
+  
+  <img align = "left"  src = "https://github.com/user-attachments/assets/00f4a0e1-b81d-4c14-ab0b-748eacf53b46" width=22% height=35% >
+  
+</p>
 
----
 
-**Quality is our Motto. Shaping "skills" for "scaling" higher!**
+<p>
+<img align = "left"  src = "https://github.com/user-attachments/assets/81754043-478b-41d9-8a13-26fe40a5e5fc" width=22% height=35% >
+  
+
+  <img align = "left"  src = "https://github.com/user-attachments/assets/4c65b711-c274-49dc-8414-6f394478ca1b" width=22% height=35% >
+
+  
+  <img align = "left"  src ="https://github.com/user-attachments/assets/972f0d9a-3b35-452c-8e88-2ef3b41cc386" width=22% height=35% >
+
+  <img align = "left"  src= "https://github.com/user-attachments/assets/fe719884-a869-49a3-ba99-fe05d0339422" width=22% height=35% >
+  
+
+
+  
+<p>
+  <img align = "left"  src = "https://github.com/user-attachments/assets/27c22de4-20ea-4823-9a06-223ed341337f" width=22% height=35% >
+  
+  <img align = "left"  src = "https://github.com/user-attachments/assets/9e645251-122e-4f23-bef3-3d3cc50b2b92" width=22% height=35% >
+  
+  <img align = "left"  src = "https://github.com/user-attachments/assets/263c61e8-b95a-495f-bae2-dc65a16b0267"
+width=22% height=35% >
+  
+
+</p>
+
+  
+
+
+</p>
