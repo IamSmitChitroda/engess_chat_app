@@ -42,6 +42,7 @@ dependencies:
   shared_preferences: ^2.3.0
   logger: ^2.4.0
   fluttertoast: ^8.2.6
+  google_sign_in:
 
 dev_dependencies:
   flutter_test:
